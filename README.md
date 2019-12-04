@@ -1,6 +1,6 @@
 #  Note: I'll do a full rewrite of this repo. I hope to finish it towards the end of 2019 / beginning of 2020.
 
-![UI/UX Designer Roadmap](http://i.imgur.com/clLNiOD.png)
+![UI/UX Designer Roadmap](https://i.imgur.com/ceiQTnol.png)
 
 > Roadmap to becoming a UI/UX Designer in 2020
 
