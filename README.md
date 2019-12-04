@@ -2,7 +2,7 @@
 
 ![UI/UX Designer Roadmap](http://i.imgur.com/clLNiOD.png)
 
-> Roadmap to becoming a UI/UX Designer in 2017
+> Roadmap to becoming a UI/UX Designer in 2020
 
 Below, you'll find a roadmap on how to become a UI/UX designer. It lists all common tools of the trade in order to become a digital creative. It is inspired by [this roadmap on how to become a web developer](https://github.com/kamranahmedse/developer-roadmap).
 
